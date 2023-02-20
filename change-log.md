@@ -1,3 +1,9 @@
+Release 1.0.2_1
+Feb 20 2023
+
+- fixed a bug in loading local file.
+- improved recovery missing json keys.
+
 Release 1.0.2
 Feb 10 2023
 
