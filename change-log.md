@@ -1,3 +1,11 @@
+### Houzi Builder 1.2.0
+- Added country, state, city area, term pickers in search filters.
+- Added activation by CodeCanyon key.
+- Fixed phone signup key.
+- Added check for Houzez theme installation.
+- Fixed several issues in parsing config.
+
+
 Release 1.0.2_1
 Feb 20 2023
 
