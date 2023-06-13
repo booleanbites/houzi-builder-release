@@ -1,3 +1,11 @@
+#### Houzi Builder 1.3.0
+Jun 13 2023
+- [New] Extensive imporvement in Search with Filters based on Houzez 'meta keys'.
+- [New] Add option to show Web URL as item in left drawer menu.
+- [New] Added 'Property Attachment' section in Property details.
+- [New] Added Custom Widgets in Home and Property Details.
+- Several bug fixes & Performance Improvement.
+
 ### Houzi Builder 1.2.0
 - Added country, state, city area, term pickers in search filters.
 - Added activation by CodeCanyon key.
@@ -6,13 +14,13 @@
 - Fixed several issues in parsing config.
 
 
-Release 1.0.2_1
+### Release 1.0.2_1
 Feb 20 2023
 
 - fixed a bug in loading local file.
 - improved recovery missing json keys.
 
-Release 1.0.2
+### Release 1.0.2
 Feb 10 2023
 
 - add purchase key verification.
