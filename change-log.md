@@ -1,6 +1,12 @@
+#### Houzi Builder 1.3.0_1
+Jun 19 2023
+- [Improved] Extensive imporvement in Dynamic Add Property Form.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.0
 Jun 13 2023
 - [New] Extensive imporvement in Search with Filters based on Houzez 'meta keys'.
+- [New] Dynamic Add Property Form.
 - [New] Add option to show Web URL as item in left drawer menu.
 - [New] Added 'Property Attachment' section in Property details.
 - [New] Added Custom Widgets in Home and Property Details.
