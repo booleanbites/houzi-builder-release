@@ -1,3 +1,9 @@
+#### Houzi Builder 1.3.0_3
+Jun 23 2023
+- [Improved] Imporvement in security of app.
+- [Improved] Extensive imporvement in Dynamic Add Property Form.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.0_2
 Jun 21 2023
 - [Improved] Extensive imporvement in Dynamic Add Property Form.
