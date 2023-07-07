@@ -1,3 +1,9 @@
+#### Houzi Builder 1.3.5
+July 07 2023
+- [New] Extensive and Improvement in Search with the additional support of new 'dropdown' and 'string-picker' in Keyword field.
+- [Improved] Imporvement in Export Configuration View of app.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.0_3
 Jun 23 2023
 - [Improved] Imporvement in security of app.
