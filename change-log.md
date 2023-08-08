@@ -1,3 +1,26 @@
+#### Houzi Builder 1.3.6
+August 08 2023
+- [New] Added support to hide/show "Print" option on Property Details Page.
+- [New] Added support to hide/show "Grid" option on Search Results Page.
+- [New] Added support to hide/show "Download" image option.
+- [New] Implemented BLoc pattern like approach for APIs.
+- [New] Added support to add "Partners" section in all Home Screens.
+- [New] Added support to fetch 'Partners' from API.
+- [New] Added "Place-Holder" widget support in Drawer Menu.
+- [New] Added "Query Type" to Keyword field.
+- [New] Added "Query Type" to Term Picker field.
+- [New] Added support for 'custom_keyword_picker'.
+- [New] Added support for 'keyword_custom_checkbox'.
+- [New] Added support for 'Keyword Custom Query'.
+- [New] Added search bar to dropdown design in term picker.
+
+- [Improved] Moved Property Details Page related configs show/hide bottom bar buttons to Property Details Page.
+- [Improved] Reverted 'keyword_picker' to 'text_field'.
+- [Improved] Resolved 'custom_keyword_picker' options space issue.
+- [Improved] Displayed Cities data instead of dummy data.
+- [Improved] Updated min SDK version to 2.17.0 from 2.16.1.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.5
 July 07 2023
 - [New] Extensive and Improvement in Search with the additional support of new 'dropdown' and 'string-picker' in Keyword field.
