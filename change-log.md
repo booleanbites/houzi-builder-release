@@ -1,3 +1,10 @@
+#### Houzi Builder 1.3.7
+August 24 2023
+- [New] Added support for 'Quick Add Property'.
+- [Improved] Fixed issues in Add Property Multi-select & Dropdown fields.
+- [Improved] Fixed issues regarding Loading dialogs.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.6
 August 08 2023
 - [New] Added support to hide/show "Print" option on Property Details Page.
