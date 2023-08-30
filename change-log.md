@@ -1,3 +1,8 @@
+#### Houzi Builder 1.3.7.1
+August 30 2023
+- [Improved] Fixed the issue of missing 'show_total_search_type_options' config.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.7
 August 24 2023
 - [New] Added support for 'Quick Add Property'.
