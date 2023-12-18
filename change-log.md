@@ -1,3 +1,14 @@
+#### Houzi Builder 1.3.8
+December 18 2023
+- [New] Upgraded and enhanced UI.
+- [New] Dynamic Bottom Navigation Bar customization with the additional support of icon picker.
+- [New] Addition of 'Box Term Picker' on Search.
+
+- [Improved] Upgraded and enhanced Layouts Design.
+- [Improved] Upgraded and enhanced Add Property.
+- [Improved] Upgraded and enhanced Quick Add Property.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.7.2
 September 01 2023
 - [Improved] Upgraded and enhanced Detailed Add Property.
