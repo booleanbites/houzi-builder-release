@@ -1,12 +1,19 @@
 #### Houzi Builder 1.3.8
 December 18 2023
-- [New] Upgraded and enhanced UI.
-- [New] Dynamic Bottom Navigation Bar customization with the additional support of icon picker.
-- [New] Addition of 'Box Term Picker' on Search.
+- [New] Upgraded and Enhanced UI.
+- [New] Added new layout design for Home section.
+- [New] Added new layout design for Drawer section.
+- [New] Added new layout design for Search section.
+- [New] Added new layout design for Property Profile section.
+- [New] Added new layout design for Add Property section.
+- [New] Added new layout design for Api & Config section.
+- [New] Added support to customize Bottom Navigation Bar with dynamic icons.
+- [New] Added support to hide/show "Cupertino Segment Control".
+- [New] Added support for 'box' term picker.
+- [New] Added support for customizing Cupertino Sliding Segment Control Thumb Color.
 
-- [Improved] Upgraded and enhanced Layouts Design.
-- [Improved] Upgraded and enhanced Add Property.
-- [Improved] Upgraded and enhanced Quick Add Property.
+- [Improved] Fixed issues related to Add Property.
+- [Improved] Fixed icons of Country, State, City and Area on Search section.
 - Several bug fixes & Performance Improvement.
 
 #### Houzi Builder 1.3.7.2
