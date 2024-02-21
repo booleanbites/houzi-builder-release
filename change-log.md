@@ -1,10 +1,12 @@
 #### Houzi Builder 1.3.9
 February 20 2023
 - [New] Upgraded and Enhanced UI.
+- [New] Updated to Flutter version 3.19.XX.
 - [New] Added new Results & Maps section.
 - [New] Added new Contact button for Line app.
 - [New] Added new Contact button for Telegram app.
 - [New] Added new layout design for Property Profile Bottom Action Bar.
+- [New] Added support for Enabling the HTML in the property description.
 
 - [Improved] Updated the Style section.
 - [Improved] Added new customization support in the Search section.
