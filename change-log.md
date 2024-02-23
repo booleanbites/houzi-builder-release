@@ -7,6 +7,7 @@ February 20 2023
 - [New] Added new Contact button for Telegram app.
 - [New] Added new layout design for Property Profile Bottom Action Bar.
 - [New] Added support for Enabling the HTML in the property description.
+- [New] Added support for customizing the options of Sequential Location Picker in Home Menu.
 
 - [Improved] Updated the Style section.
 - [Improved] Added new customization support in the Search section.
