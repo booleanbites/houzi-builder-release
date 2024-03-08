@@ -8,6 +8,7 @@ February 20 2023
 - [New] Added new layout design for Property Profile Bottom Action Bar.
 - [New] Added support for Enabling the HTML in the property description.
 - [New] Added support for customizing the options of Sequential Location Picker in Home Menu.
+- [New] Added support for "*item_design_form_hook*" option in the **layout design** of Home **Property** type widgets.
 
 - [Improved] Updated the Style section.
 - [Improved] Added new customization support in the Search section.
