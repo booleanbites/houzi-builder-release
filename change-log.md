@@ -1,5 +1,17 @@
+#### Houzi Builder 1.4.0
+June 13 2024
+- [New] Updated to Flutter version 3.22.XX.
+- [New] Added support for Push Notifications Configurations in Api & Config section.
+- [New] Added support for Dynamic Terms with Icons on Home Screens.
+- [New] Added support for adding Houzez Posts/ Blogs on Home Screens, in Drawer Menu and in Bottom Navigation Menu.
+- [New] Added new Blog Profile section.
+
+- [Improved] Added fix for 'user_selected' sub-type in 'property Type' widgets on Home Screen.
+- [Improved] Added support for the 'Price Placeholder' in Add Property.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.3.9
-February 20 2023
+February 20 2024
 - [New] Upgraded and Enhanced UI.
 - [New] Updated to Flutter version 3.19.XX.
 - [New] Added new Results & Maps section.
