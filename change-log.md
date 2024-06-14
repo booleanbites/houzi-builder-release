@@ -6,6 +6,9 @@ June 13 2024
 - [New] Added support for adding Houzez Posts/ Blogs on Home Screens, in Drawer Menu and in Bottom Navigation Menu.
 - [New] Added new Blog Profile section.
 
+- [Improved] Fixed the issue of bottom space and scrolling in the User Profile Page.
+- [Improved] Fixed the issue of bottom space under the Similar properties of Property Profile.
+- [Improved] Fixed the issue related to colour of Email button on property profile.
 - [Improved] Added fix for 'user_selected' sub-type in 'property Type' widgets on Home Screen.
 - [Improved] Added support for the 'Price Placeholder' in Add Property.
 - Several bug fixes & Performance Improvement.
