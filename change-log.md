@@ -1,4 +1,4 @@
-#### Houzi Builder 1.4.0_1
+#### Houzi Builder 1.4.0.1
 June 28 2024
 - [Fix] Fixed the issue of missing blog details layout configuration.
 
