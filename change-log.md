@@ -1,13 +1,17 @@
-#### Houzi Builder 1.4.0.1
-June 28 2024
-- [Fix] Fixed the issue of missing blog details layout configuration.
-
-- [New] Updated to Flutter version 3.22.XX.
+#### Houzi Builder 1.4.2
+August 2024
+- [New] Updated to Flutter version 3.24.XX.
+- [New] Added support for adding 'Direct Messages' in bottom Navigation menu.
+- [New] Added support for adding 'Direct Messages' in Drawer menu.
+- [New] Added support for display/ hide the Direct Message button on Property Profile page.
+- [New] Added support for customizing the background color of Direct Message button in Style section.
 - [New] Added support for Push Notifications Configurations in Api & Config section.
 - [New] Added support for Dynamic Terms with Icons on Home Screens.
 - [New] Added support for adding Houzez Posts/ Blogs on Home Screens, in Drawer Menu and in Bottom Navigation Menu.
 - [New] Added new Blog Profile section.
 
+- [Improved] Improved Small Buttons widget on Property Profile page.
+- [Improved] Fixed the issue of missing blog details layout configuration.
 - [Improved] Fixed the issue of bottom space and scrolling in the User Profile Page.
 - [Improved] Fixed the issue of bottom space under the Similar properties of Property Profile.
 - [Improved] Fixed the issue related to colour of Email button on property profile.
@@ -16,7 +20,7 @@ June 28 2024
 - Several bug fixes & Performance Improvement.
 
 #### Houzi Builder 1.4.0
-June 13 2024
+June 2024
 - [New] Updated to Flutter version 3.22.XX.
 - [New] Added support for Push Notifications Configurations in Api & Config section.
 - [New] Added support for Dynamic Terms with Icons on Home Screens.
