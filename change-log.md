@@ -1,3 +1,8 @@
+#### Houzi Builder 1.4.2.1
+Nov 2024
+- [Improved] Color styles picking.
+- [Improved] Icon picking.
+
 #### Houzi Builder 1.4.2
 August 2024
 - [New] Updated to Flutter version 3.24.XX.
