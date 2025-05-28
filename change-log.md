@@ -1,3 +1,10 @@
+#### Houzi Builder 1.4.4
+May 2025
+- [New] Added rooms support in add listing and listing details.
+- [Improved] Fixed heading color showing same when switching light or dark mode.
+- [Improved] Made Changes to language URL format examples.
+
+
 #### Houzi Builder 1.4.2.1
 Nov 2024
 - [Improved] Color styles picking.
