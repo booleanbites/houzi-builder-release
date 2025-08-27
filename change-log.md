@@ -1,3 +1,7 @@
+#### Houzi Builder 1.4.5
+Aug 2025
+- [New] Added rooms support for all listing item.
+
 #### Houzi Builder 1.4.4
 May 2025
 - [New] Added rooms support in add listing and listing details.
