@@ -1,3 +1,10 @@
+#### Houzi Builder 1.4.7
+March 2026
+
+- [New] Integrated **Home Air** support, allowing users to generate and fully customize their configurations.
+- [New] Added Property Item Design for design 12.
+- [Improved] Fixed a bug where the property item in the Style tab was null and not showing up.
+
 #### Houzi Builder 1.4.5
 Aug 2025
 - [New] Added rooms support for all listing item.
