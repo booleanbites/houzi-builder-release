@@ -1,3 +1,15 @@
+#### Houzi Builder 1.4.8
+July 2026
+
+- [New] Added **Home AI** — a new AI-powered home screen design.
+- [New] Added AI home sections usable in any home layout: **Tailored for You** and **Top Matches**.
+- [New] Added **Ask AI** section on the Listing Details page.
+- [New] Home AI is now available as an entry in the Drawer menu.
+- [Improved] Selecting Home AI now prompts to add its AI sections automatically.
+- [Improved] Fixed a build issue with the icon picker on the latest Flutter.
+- [Improved] Fixed a crash in the Home Air preview when switching between home designs.
+- Several bug fixes & Performance Improvement.
+
 #### Houzi Builder 1.4.7
 March 2026
 
